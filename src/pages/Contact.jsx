@@ -1616,7 +1616,7 @@ const Contact = () => {
                 </p>
 
                 <a
-                  href="https://www.google.com/maps/place/Worcester,+UK/"
+                  href="https://maps.app.goo.gl/Ah1cNvKCYRHpekrH7?g_st=ic"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-xs font-mono text-[#76C7C0] hover:underline inline-flex items-center gap-1 pt-2"
